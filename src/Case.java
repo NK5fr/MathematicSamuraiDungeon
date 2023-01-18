@@ -1,0 +1,1 @@
+enum Case{SOL, MUR, ESCALIER}
